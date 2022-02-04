@@ -81,6 +81,10 @@ input {
   width: 100%;
 }
 
+textarea {
+  width: 100%;
+}  
+
 /* Column Size for thead */
 
 table thead tr th {
